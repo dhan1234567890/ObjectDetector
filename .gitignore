@@ -1,0 +1,14 @@
+# Environments
+venv/
+env/
+.env
+
+# Cache
+__pycache__/
+*.pyc
+
+# YOLOv8 Models (automatically downloaded)
+*.pt
+
+# OS generated files
+.DS_Store
